@@ -1,0 +1,10 @@
+
+project: curriculum_industry_skill_gap
+
+registry: data/registry.db
+
+provider: local
+
+online_store:
+  type: sqlite
+  path: data/online_store.db
