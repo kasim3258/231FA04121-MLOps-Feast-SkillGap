@@ -6,7 +6,7 @@
 
 **Register Number:** 231FA04121
 
-**Section:** CSE
+**Section:** SEC-09 CSE
 
 ---
 
